@@ -2,10 +2,13 @@
 
 ## Download 
 
-### Official Release Versions :
+### Official Release and Unofficial Builds :
 https://github.com/mars-sim/releases/releases
 
-### 3.1.0 Preview Versions :
+### v3.1.1 :
+https://sourceforge.net/projects/mars-sim/files/mars-sim/3.1.1/
+
+### v3.1.0 :
 https://sourceforge.net/projects/mars-sim/files/mars-sim/3.1.0/
 
 ## Issues/Tickets :
