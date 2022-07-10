@@ -17,6 +17,12 @@ https://github.com/mars-sim/mars-sim
 #### Most Recent Official Releases and Unofficial Builds :
 https://github.com/mars-sim/mars-sim/releases
 
+#### v3.3.0 :
+https://sourceforge.net/projects/mars-sim/files/mars-sim/3.3.0/
+
+#### v3.2.0 :
+https://sourceforge.net/projects/mars-sim/files/mars-sim/3.2.0/
+
 #### v3.1.1 :
 https://sourceforge.net/projects/mars-sim/files/mars-sim/3.1.1/
 
